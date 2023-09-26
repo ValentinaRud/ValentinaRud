@@ -2,8 +2,6 @@
 - I’m Data Analyst
 
 - **SKILLS:**  Python, SQL, Excel, Power Point, Tableau
-  
-Contacts:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/valentina-rudneva-50651a1b4/">
